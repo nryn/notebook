@@ -2,7 +2,6 @@
 
 Workshop exercise on domain modelling.
 
-
 ## Usage
 
 - `cd` to repo's root directory and use `irb` to `require './notebook.rb'`
